@@ -1,6 +1,8 @@
 # EcoSmart - Sustainovate'25 (Theme: Miscellaneous)
 
-![EcoSmart Banner](images/maxresdefault.jpg)
+<p align="center">
+  <img src="images/frontpage.jpg" width="80%">
+</p>
 
 ## 🌱 Introduction
 **EcoSmart** is a sustainability-focused platform designed to encourage eco-friendly shopping habits. It features a **browser extension** that analyzes products on e-commerce websites and assigns an **EcoScore** based on various environmental factors such as waste, plastic usage, and overall environmental impact. If a product has a low score (i.e., is not eco-friendly), it recommends better alternatives.
@@ -21,7 +23,7 @@ The idea came to my mind because e-commerce is a daily necessity, and in this er
 
 
 ## 📹 Demo Video
-[![Watch the Demo](images/jj.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[<img src="images/frontpage.jpg" width="400">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## 📂 Project Structure
 ```
