@@ -1,0 +1,76 @@
+# Node.js dependencies
+Frontend/node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python dependencies
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+backend/.env
+env/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+dist/
+build/
+out/
+
+# Web extensions
+Web-Extension/node_modules/
+Web-Extension/dist/
+
+
+# Ignore environment files
+backend/.env
+
+# Ignore virtual environment
+env/
+venv/
+.env/
+
+# Ignore dependencies
+node_modules/
+**/node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Ignore build outputs
+.next/
+dist/
+out/
+build/
+*.log
+
+# Ignore OS-specific and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+*.iml
+
+# Ignore TypeScript build artifacts
+*.tsbuildinfo
+
+# Ignore generated static files
+public/
+icons/
+
