@@ -28,7 +28,7 @@ The idea came to my mind because e-commerce is a daily necessity, and in this er
 - **Partnerships & Collaborations**: Expanding partnerships with eco-friendly brands and organizations to maximize impact.
 
 ## 📹 Demo Video
-[<img src="images/frontpage.jpg" width="400">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[<img src="images/frontpage.jpg" width="400">](https://youtu.be/Vw4KkHUcFz8?si=yz4LYcY6v-omVeE0)
 
 ## 📜 Presentation
 📄 [Download Project Presentation](./Sujay_Deshpande_EcoSmart.pdf)
