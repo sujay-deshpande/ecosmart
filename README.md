@@ -21,9 +21,17 @@ The **web app** complements this by allowing users to claim rewards based on the
 ## 🤔 Why I Chose This Project & How I Generated the Idea
 The idea came to my mind because e-commerce is a daily necessity, and in this era, it is crucial to be mindful of our purchases. While I had many options to choose from, I decided to think outside the box and focus on a solution that benefits the world. By selecting this project, I aimed to align with the sustainability theme and contribute to a better future by encouraging responsible consumer behavior.
 
+## 🔮 Future Growth & Scalability
+- **Blockchain Integration**: Implementing blockchain technology for fraud detection to ensure that the rewards claimed are legitimate.
+- **AR/VR for Product Verification**: Using AR/VR technology to help users visually verify and assess eco-friendly products before purchasing.
+- **Gamification & Global Expansion**: Introducing world-wide leaderboards and interactive reward-based engagement to promote sustainability.
+- **Partnerships & Collaborations**: Expanding partnerships with eco-friendly brands and organizations to maximize impact.
 
 ## 📹 Demo Video
 [<img src="images/frontpage.jpg" width="400">](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+## 📜 Presentation
+📄 [Download Project Presentation](./Sujay_Deshpande_EcoSmart.pdf)
 
 ## 📂 Project Structure
 ```
